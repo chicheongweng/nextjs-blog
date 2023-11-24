@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/63fcb14f-4af3-4dd0-83ea-9a0b83f05ac6/resourceGroups/rg-web-app/providers/Microsoft.Web/sites/hkbnnextjs",
+    "appService.deploySubpath": "."
+}
